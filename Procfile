@@ -1,1 +1,1 @@
-python run.py
+web: yarn start:python run.py
