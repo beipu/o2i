@@ -1,1 +1,1 @@
-web: yarn start:python app.py
+web: yarm start:python app.py
